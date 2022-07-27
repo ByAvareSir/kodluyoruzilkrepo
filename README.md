@@ -3,7 +3,7 @@ Bu repo Kodluyoruz React Native ile Mobile App Patikası Eğitimi kapsamında a�
 
 
 
-![.](C:\Users\Omert\Desktop\markdown.png)
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 
 
